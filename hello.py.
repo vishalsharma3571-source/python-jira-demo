@@ -1,0 +1,5 @@
+def greet():
+    return "Hello World! JIRA + GitHub integration successful."
+
+if __name__ == "__main__":
+    print(greet())
